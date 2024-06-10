@@ -7,5 +7,5 @@ import (
 )
 
 func Spell() string {
-	return fmt.Sprintf("%s %s of %s", words.Adjective(), words.Noun(), words.Noun())
+	return fmt.Sprintf("A %s %s of the %s", words.Adjective(), words.Noun(), words.Noun())
 }
