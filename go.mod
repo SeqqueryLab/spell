@@ -1,4 +1,4 @@
-module github.com/utubun/spell
+module github.com/SeqqueryLab/spell
 
 go 1.22.2
 

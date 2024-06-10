@@ -3,7 +3,7 @@ package spell
 import (
 	"fmt"
 
-	words "github.com/utubun/spell/internal"
+	words "github.com/SeqqueryLab/spell/internal"
 )
 
 func Spell() string {
